@@ -722,11 +722,3 @@ GENERAL */
     float: right;
 }
 
-#container-img {
-    margin-top: 48px;
-    padding-top: 50%;
-    background: url('/assets/img/slider/footer.jpg') center center / cover no-repeat;
-    background-size: 100%;
-    width: 100%;
-    height: auto;
-}
